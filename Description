@@ -1,0 +1,2 @@
+Program requested by a professor written in C# made to register the scores of his students and calculate the class' average.
+The program should stop asking by new scores if the input received is the string "-1".
